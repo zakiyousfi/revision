@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'revision1';
+title='pr';
+listecours=["c1","c2","c3"];
+nombre=[8,2,3];
+couleur="rouge";
+voiture=[{mat:1,marque:'rang',couleur:'rouge'},{mat:10,marque:'bmw',couleur:'noir'},{mat:100,marque:'passat',couleur:'blanc'}];
 }
